@@ -4,9 +4,9 @@
 <br><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasstallbaum&label=Profile%20views&color=0e75b6&style=flat" alt="tucokk" /> </p>
 
-- 🌱Estou atualmente me aperfeiçoando em **.NET Core, Java e Next.**
+- 🌱 I'm actually learning **.NET Core, Java e Next.**
 
-- 📫 Como me contatar? **arthurluftribeiro@gmail.com**
+- 📫 How to contact me? **arthurluftribeiro@gmail.com**
 
 <br><br><br>
 <div align="center">  

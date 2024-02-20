@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F00D2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A9FEF7&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+ARTHUR.+:%29)](https://git.io/typing-svg)
-<br><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tucokk&label=Profile%20views&color=0e75b6&style=flat" alt="tucokk" /> </p>
 
 - 🌱 I'm actually learning **.NET Core, Java e Next.**
